@@ -4,11 +4,7 @@
 My name is Maureen Mwangi and I'm a software developer. I'm from Kenya, living in Nairobi You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. Am passionate about Web Development.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
   <img src="https://img.shields.io/badge/CSS-0077B5?&style=for-the-badge&logo=css3&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
@@ -46,9 +42,9 @@ My name is Maureen Mwangi and I'm a software developer. I'm from Kenya, living i
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/joseph-njogu/joseph-njogu/main/linkedin-3-16.png (LinkedIn icon without padding)
 
-[1]: https://twitter.com/josephnjogu487
-[2]: https://github.com/joseph-njogu
-[3]: https://www.linkedin.com/in/joseph-njogu-b39544182/
+[1]: https://twitter.com/manjax97
+[2]: https://github.com/maureen-james
+[3]: https://www.linkedin.com/in/maureen-mwangi-262186213
 
 
 
