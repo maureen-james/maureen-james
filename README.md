@@ -6,16 +6,19 @@ My name is Maureen Mwangi and I'm a software developer. I'm from Kenya, living i
 ## 🔧 Technologies & Tools
 
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/CSS-0077B5?&style=for-the-badge&logo=css3&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3179c7?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/Angular-c30130?style=for-the-badge&logo=angular" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS-0077B5?&style=for-the-badge&logo=css3&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3179c7?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Angular-c30130?style=for-the-badge&logo=angular" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
  
+  <img src="https://img.shields.io/badge/figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/canva-3868e8?style=for-the-badge&logo=canva&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git-f64d27?style=for-the-badge&logo=git&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;&nbsp;
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/maureen-james/maureen-james">
